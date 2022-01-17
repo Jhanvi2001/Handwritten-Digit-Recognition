@@ -11,3 +11,6 @@ The model is also passed to the confusion matrix, it checks that which true valu
 
 Utilizing these deep learning techniques, a high amount of accuracy can be obtained. Compared to other research methods, this method focuses on which classifier works better by improving the accuracy of classification models by more than 99%. 
 Using Keras as backend and TensorFlow as the software, a CNN model can give an accuracy of about 98.7% while Decision and Random Forest have less accuracy compared to it
+
+## For for refrence kindly check the below link
+https://python.plainenglish.io/handwritten-digit-recognition-a713c9d466a5
